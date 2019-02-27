@@ -1,5 +1,5 @@
 # Zaph
 ProjetoConclusãoCurso
 
-
-Refazer tudo!
+public void Quit(){
+application.quit();
